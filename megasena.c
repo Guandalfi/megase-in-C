@@ -1,3 +1,9 @@
+/*
+ALUNO...: LUCAS ANTONIO GUANDALIN
+DATA....: 23/08/24
+OBJETIVO: Simula jogo da megasena
+*/
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
